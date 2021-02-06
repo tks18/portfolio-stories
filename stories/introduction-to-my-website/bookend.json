@@ -1,0 +1,42 @@
+{
+    "bookendVersion": "v1.0",
+    "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "small",
+      "title": "Learn about cats",
+      "url": "https://wikipedia.org/wiki/Cat",
+      "image": "assets/bookend_cats.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Learn about border collies",
+      "url": "https://wikipedia.org/wiki/Border_Collie",
+      "image": "assets/bookend_dogs.jpg",
+      "category": "Dogs"
+    },
+    {
+      "type": "small",
+      "title": "Learn about macaws",
+      "url": "https://wikipedia.org/wiki/Macaw",
+      "image": "assets/bookend_birds.jpg",
+      "category": "birds"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Learn more",
+          "url": "https://www.ampproject.org/stories/"
+        }
+      ]
+    }
+  ]
+    "shareProviders": [
+    "facebook",
+    "twitter",
+    "email", "line", "pinterest", "tumblr", "whatsapp", "sms"]
+}
